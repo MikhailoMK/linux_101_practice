@@ -1,4 +1,5 @@
 (user_check.sh)
+
 #!/bin/bash
 
 cat /etc/passwd | grep `whoami`
